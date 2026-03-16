@@ -18,3 +18,4 @@ A desktop and web-based OSINT launcher built with React, Vite, and Electron.
 ```bash
 npm install
 npm run dev
+npm run package-win
